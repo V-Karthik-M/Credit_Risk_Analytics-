@@ -17,6 +17,7 @@ This mirrors how real-world ML systems are built in financial institutions.
 UCI Credit Card Default Dataset
 30,000 customer records
 23 original features
+
 **Target variable:**
 default.payment.next.month
 0 = No Default
