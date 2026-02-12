@@ -1,0 +1,13 @@
+ID
+LIMIT_BAL
+SEX
+EDUCATION
+MARRIAGE
+AGE
+AGE_missing_flag
+num_late_payments
+avg_payment_delay
+avg_bill_amount
+credit_utilization
+avg_payment_amount
+payment_to_bill_ratio
